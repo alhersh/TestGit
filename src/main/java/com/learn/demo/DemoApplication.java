@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+//This is to test new branch
 @SpringBootApplication
 public class DemoApplication {
 	//Testing line
